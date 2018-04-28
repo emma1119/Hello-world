@@ -1,9 +1,6 @@
-
-
 def removeDup(A):
         if A is []:
             return 0
-
         newtail = 0
         B= []
         for i in range(1, len(A)):

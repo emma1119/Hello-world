@@ -1,6 +1,5 @@
 #question3
 x= (raw_input("Enter DNA here:"))
-#only inputs are string, we can use this
 
 def decompose(x):
     a = 0
